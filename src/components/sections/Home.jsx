@@ -16,7 +16,7 @@ export const Home = () => {
                     | AI Enthusiast 🤖 
                 </h2>
                 <div className="flex justify-center items-center gap-6 mt-8">
-                    <a href="https://www.linkedin.com/in/ranil-ece53/" className="px-8 py-3 rounded-full bg-blue-500 backdrop-blur-md text-white font-semibold hover:scale-105 transition">
+                    <a href="/Ranil_Resume.pdf" className="px-8 py-3 rounded-full bg-blue-500 backdrop-blur-md text-white font-semibold hover:scale-105 transition">
                         Resume
                     </a>
 
